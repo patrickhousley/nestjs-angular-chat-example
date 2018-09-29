@@ -1,0 +1,27 @@
+{
+  "npmScope": "nestjs-angular-chat-example",
+  "implicitDependencies": {
+    "angular.json": "*",
+    "package.json": "*",
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {
+    "client": {
+      "tags": []
+    },
+    "client-e2e": {
+      "tags": []
+    },
+    "core": {
+      "tags": []
+    },
+    "server": {
+      "tags": []
+    },
+    "server-e2e": {
+      "tags": []
+    }
+  }
+}

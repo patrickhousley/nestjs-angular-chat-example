@@ -1,0 +1,17 @@
+{
+  "extends": "../../tslint.json",
+  "rules": {
+    "directive-selector": [
+      true,
+      "attribute",
+      "nestjs-angular-chat-example",
+      "camelCase"
+    ],
+    "component-selector": [
+      true,
+      "element",
+      "nestjs-angular-chat-example",
+      "kebab-case"
+    ]
+  }
+}
